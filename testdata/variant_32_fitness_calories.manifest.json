@@ -1,0 +1,21 @@
+{
+  "variantId": 32,
+  "slug": "fitness_calories",
+  "rows": 500000,
+  "seed": 32000138,
+  "errorRate": 0.05,
+  "rowOutcomes": {
+    "valid": 474889,
+    "type_kcal_out_of_range": 4030,
+    "type_token_invalid": 5224,
+    "type_int_malformed": 6405,
+    "unknown_event": 2995,
+    "type_workout_minutes_out_of_range": 909,
+    "column_count": 1982,
+    "type_money_malformed": 466,
+    "type_signed_kcal_out_of_range": 463,
+    "empty_event": 1203,
+    "type_hours_out_of_range": 1434
+  },
+  "csv": "generated/variant_32_fitness_calories.csv"
+}
